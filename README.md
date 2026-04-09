@@ -19,18 +19,14 @@ A basic login and signup application built with React and Vite, styled using Tai
    cd login-page
 
 2. **Install dependencies:**
-
-``Bash
-  npm install
+   npm install
 
 3. **Run the development server:**
-
-``Bash
-npm run dev
+   npm run dev
 
 4. **Build for production:**
+   npm run build
 
-``Bash
-npm run build
+
 License
 MIT
